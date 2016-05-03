@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut27loudgoog_0365.png"; bbox 0 0 3032 4895; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 407 153 2677 221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 407 153 2677 221">
+     <span class='ocr_line' id='line_1_1' title="bbox 407 153 2677 221; baseline 0.002 -6"><span class='ocrx_word' id='word_1_1' title='bbox 407 170 494 215; x_wconf 77' lang='lat' dir='ltr'>cu</span> <span class='ocrx_word' id='word_1_2' title='bbox 504 172 599 215; x_wconf 74' lang='grc' dir='ltr'>ΑΡ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 637 171 782 216; x_wconf 79' lang='lat'>0111.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1162 153 1578 218; x_wconf 49' lang='lat' dir='ltr'>&amp;Aucta-32.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1668 153 1902 217; x_wconf 57' lang='lat' dir='ltr'><strong>swux.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2512 159 2677 221; x_wconf 86' lang='lat'><strong>1607</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 750 324 2309 477">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 750 324 2309 477">
+     <span class='ocr_line' id='line_1_2' title="bbox 750 324 2309 398; baseline 0.001 -18"><span class='ocrx_word' id='word_1_7' title='bbox 750 324 780 397; x_wconf 87' lang='lat'><em>§</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 806 325 841 380; x_wconf 88' lang='lat' dir='ltr'>i.</span> <span class='ocrx_word' id='word_1_9' title='bbox 865 326 1405 383; x_wconf 76' lang='lat' dir='ltr'>continued.-Adult</span> <span class='ocrx_word' id='word_1_10' title='bbox 1427 328 1627 381; x_wconf 71' lang='lat' dir='ltr'><em>Leaoes</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1647 327 1887 390; x_wconf 67' lang='lat' dir='ltr'>serv-ntea,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1910 327 2085 398; x_wconf 73' lang='lat' dir='ltr'><em>nearly</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2104 327 2309 381; x_wconf 72' lang='lat' dir='ltr'>maoth.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1200 437 1856 477; baseline -0.003 0"><span class='ocrx_word' id='word_1_14' title='bbox 1200 437 1398 477; x_wconf 67' lang='lat' dir='ltr'>osum</span> <span class='ocrx_word' id='word_1_15' title='bbox 1424 437 1543 476; x_wconf 77' lang='lat' dir='ltr'>nm</span> <span class='ocrx_word' id='word_1_16' title='bbox 1570 437 1856 476; x_wconf 70' lang='lat' dir='ltr'><strong>Wluows.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

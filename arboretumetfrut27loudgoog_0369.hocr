@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut27loudgoog_0369.png"; bbox 0 0 3032 4895; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 368 148 2631 216">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 368 148 2631 216">
+     <span class='ocr_line' id='line_1_1' title="bbox 368 148 2631 216; baseline -0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 368 169 567 215; x_wconf 65' lang='lat' dir='ltr'>enar.</span> <span class='ocrx_word' id='word_1_2' title='bbox 588 167 736 216; x_wconf 82' lang='lat' dir='ltr'><strong>cm.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1148 148 1566 214; x_wconf 56' lang='lat' dir='ltr'><strong>mnemon.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1654 150 1890 214; x_wconf 48' lang='lat' dir='ltr'><strong>samu.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2472 155 2588 213; x_wconf 85' lang='lat'><strong>161</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2606 156 2631 211; x_wconf 90' lang='lat' dir='ltr'><strong>l</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 733 316 2294 470">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 733 316 2294 470">
+     <span class='ocr_line' id='line_1_2' title="bbox 733 316 2294 393; baseline 0.001 -18"><span class='ocrx_word' id='word_1_7' title='bbox 733 316 763 393; x_wconf 63' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 784 321 818 376; x_wconf 86' lang='lat' dir='ltr'><strong>i.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 842 320 1390 376; x_wconf 71' lang='lat' dir='ltr'><strong>continued.—Adult</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1411 322 1610 378; x_wconf 72' lang='lat' dir='ltr'><strong>Leum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1631 322 1872 388; x_wconf 66' lang='lat' dir='ltr'><em>malea,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1894 323 2070 393; x_wconf 61' lang='lat' dir='ltr'><strong><em>marty</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2089 324 2294 377; x_wconf 69' lang='lat' dir='ltr'><em>maoth.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1362 429 1649 470; baseline 0.01 -3"><span class='ocrx_word' id='word_1_14' title='bbox 1362 429 1649 470; x_wconf 67' lang='lat' dir='ltr'><strong>muows.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

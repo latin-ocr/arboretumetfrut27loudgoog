@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut27loudgoog_0386.png"; bbox 0 0 3032 4895; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 295 155 2570 212">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 295 155 2570 212">
+     <span class='ocr_line' id='line_1_1' title="bbox 295 155 2570 212; baseline -0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 295 155 460 212; x_wconf 79' lang='grc'><strong>1628</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 873 158 1297 206; x_wconf 72' lang='lat' dir='ltr'>ARBORRTUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1345 162 1485 206; x_wconf 66' lang='lat' dir='ltr'><strong>Am&gt;</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1535 160 1995 206; x_wconf 69' lang='lat' dir='ltr'><strong>munem-um.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2264 159 2437 204; x_wconf 69' lang='lat' dir='ltr'><strong>mm·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2468 161 2570 204; x_wconf 87' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 653 316 2187 391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 653 316 2187 391">
+     <span class='ocr_line' id='line_1_2' title="bbox 653 316 2187 391; baseline -0.003 -17"><span class='ocrx_word' id='word_1_7' title='bbox 653 318 681 391; x_wconf 57' lang='grc' dir='ltr'><em>ᾗ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 708 319 778 374; x_wconf 72' lang='lat' dir='ltr'>iii.</span> <span class='ocrx_word' id='word_1_9' title='bbox 804 316 1396 372; x_wconf 73' lang='lat' dir='ltr'><strong>continued.-Leaves</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1418 319 1495 370; x_wconf 83' lang='lat' dir='ltr'><strong>all</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1510 319 1723 389; x_wconf 70' lang='lat' dir='ltr'><em>shaggg,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1746 318 1944 388; x_wconf 74' lang='lat' dir='ltr'><strong><em>mally,</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1964 334 2026 368; x_wconf 82' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2042 316 2187 385; x_wconf 72' lang='lat' dir='ltr'><em>silky.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1147 449 1747 489">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1147 449 1747 489">
+     <span class='ocr_line' id='line_1_3' title="bbox 1147 449 1747 489; baseline 0.005 -3"><span class='ocrx_word' id='word_1_15' title='bbox 1147 449 1380 489; x_wconf 70' lang='lat' dir='ltr'>SALLow</span> <span class='ocrx_word' id='word_1_16' title='bbox 1410 451 1484 488; x_wconf 69' lang='lat' dir='ltr'><strong>AN</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1493 450 1530 489; x_wconf 89' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_18' title='bbox 1557 451 1747 489; x_wconf 67' lang='lat' dir='ltr'><strong>osum.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

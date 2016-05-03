@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut27loudgoog_0376.png"; bbox 0 0 3032 4895; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 164 2679 224">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 164 2679 224">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 164 2679 224; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 346 221 347 224; x_wconf 74' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 401 164 571 223; x_wconf 66' lang='lat'><strong>1618</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 985 177 1405 223; x_wconf 58' lang='lat' dir='ltr'><strong>Annonem-um</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1453 177 1593 221; x_wconf 72' lang='lat' dir='ltr'><strong>Am)</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1641 176 2099 224; x_wconf 71' lang='lat' dir='ltr'><strong>rnu&#39;mcmum.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2366 180 2540 224; x_wconf 70' lang='lat' dir='ltr'>PAR-r</span> <span class='ocrx_word' id='word_1_7' title='bbox 2575 179 2679 223; x_wconf 84' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 397 329 2315 558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 397 329 2315 558">
+     <span class='ocr_line' id='line_1_2' title="bbox 783 329 2315 406; baseline 0.002 -20"><span class='ocrx_word' id='word_1_8' title='bbox 783 329 813 404; x_wconf 84' lang='lat'><em>§</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 837 332 908 387; x_wconf 77' lang='lat' dir='ltr'>iii.</span> <span class='ocrx_word' id='word_1_10' title='bbox 932 334 1524 390; x_wconf 53' lang='lat' dir='ltr'><strong>Quianam—Lem*</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1545 334 1621 386; x_wconf 81' lang='lat' dir='ltr'><strong>all</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1638 335 1849 405; x_wconf 75' lang='lat' dir='ltr'><em>shaggy,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1871 335 2068 405; x_wconf 74' lang='lat' dir='ltr'><em>woolly,</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 2092 354 2151 388; x_wconf 88' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2170 336 2315 406; x_wconf 72' lang='lat' dir='ltr'><strong>eilley.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1385 443 1676 482; baseline 0.01 -3"><span class='ocrx_word' id='word_1_16' title='bbox 1385 443 1676 482; x_wconf 59' lang='lat' dir='ltr'><strong>waLowe.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 397 515 829 558; baseline -0.002 0"><span class='ocrx_word' id='word_1_17' title='bbox 397 516 458 558; x_wconf 73' lang='grc'><strong>76.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 487 516 516 555; x_wconf 73' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_19' title='bbox 541 515 829 557; x_wconf 63' lang='lat' dir='ltr'><strong>amomum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2165 4785 2666 4829">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2165 4785 2666 4829">
+     <span class='ocr_line' id='line_1_5' title="bbox 2165 4785 2666 4829; baseline -0.008 0"><span class='ocrx_word' id='word_1_20' title='bbox 2165 4787 2228 4829; x_wconf 82' lang='grc'><strong>87.</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 2257 4786 2294 4825; x_wconf 78' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 2318 4785 2666 4827; x_wconf 59' lang='lat' dir='ltr'><strong>runnu-inimus·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
